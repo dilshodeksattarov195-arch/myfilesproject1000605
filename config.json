@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasesave",
+        "uuid": 674575,
+        "checksum": "l6kbm"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
